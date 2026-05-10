@@ -9,7 +9,7 @@ import sqlite3
 from datetime import datetime
 
 BOT_TOKEN = "enter your token here(do not remove quotation marks)"
-ADMIN_ID = 1620098891
+ADMIN_ID = 
 
 FAQ = {
     "как оформить заказ": "Выберите товар, нажмите 'В корзину', затем оформите заказ.",
