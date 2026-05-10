@@ -17,7 +17,7 @@ import telebot
 import sqlite3
 from datetime import datetime
 
-BOT_TOKEN = "8666724276:AAFMFVt36y3kGfjV1BbUWK5mjU30RUIqntQ"
+BOT_TOKEN = "enter your token here(do not remove quotation marks)"
 ADMIN_ID = 1620098891
 
 FAQ = {
